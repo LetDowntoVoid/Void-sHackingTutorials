@@ -2,9 +2,9 @@
 ## Difficulty: So easy that it's scary. [=⭕==================] (10%)
 <br>
 
-![LetDowntoVoid-Logo-Dark](/Images/LetDowntoVoidFull_black_end.png#gh-dark-mode-only)
+![LetDowntoVoid-Logo-Dark](https://raw.githubusercontent.com/LetDowntoVoid/VoidWorksInc-hackingTutorials/main/Phishing/Images/LetDowntoVoidFull.png#gh-dark-mode-only)
 
-![LetDowntoVoid-Logo-Light](/Images/LetDowntoVoidFull.png#gh-light-mode-only)
+![LetDowntoVoid-Logo-Light](https://raw.githubusercontent.com/LetDowntoVoid/VoidWorksInc-hackingTutorials/main/Phishing/Images/LetDowntoVoidFull_black_end.png#gh-light-mode-only)
 
 <br>
 
