@@ -43,9 +43,13 @@ ____________________________________________________________
 
 + Some skills with UNIX is preferred.
 
++ A ready Virtual Machine environment. There are good tutorials on youtube that you can use to set up a Virtual Machine env. 
+
++ Get used to with virtual machines.
+
 ### <br>The author also recommends you learn about the following things:
 + UNIX Scripting
 + Tunnelling
-
++ Setting up a Virtual Machine 
 
 
