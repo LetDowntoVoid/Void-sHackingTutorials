@@ -1,5 +1,5 @@
 # Voidworks Inc. Hacking Tutorial - Phishing
-## Difficulty: So easy that it's scary. [=⭕==================] (10%)
+## Difficulty: So easy that it's scary. <br>[=⭕==================] (10%)
 <br>
 
 ![LetDowntoVoid-Logo-Dark](https://raw.githubusercontent.com/LetDowntoVoid/VoidWorksInc-hackingTutorials/main/Phishing/Images/LetDowntoVoidFull.png#gh-dark-mode-only)
@@ -8,7 +8,7 @@
 
 <br>
 
-### <br>**Note**: ***This is just a tutorial so that people understand how this system works. Please do note hack anyone without there consent and this is just a tutorial for education purposes and a way to learn how to stay safe.***
+### <br>**Note**: ***This is just a tutorial so that people understand how this system works. Please do note hack anyone without their consent and this is just a tutorial for education purposes and a way to learn how to stay safe.***
 
 #### <br> Made with 💖 by LetDowntoVoid with the belief that everyone should know Information Technology.
 
