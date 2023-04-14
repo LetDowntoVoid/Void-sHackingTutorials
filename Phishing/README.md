@@ -1,4 +1,4 @@
-# Voidworks Inc. Hacking Tutorial - Phishing
+# LetDowntoVoid Hacking Tutorial - Phishing
 ## Difficulty: So easy that it's scary. <br>[=⭕==================] (10%)
 <br>
 
@@ -184,7 +184,7 @@ In the terminal just type this
 
     ./blackeye.sh
 
-And **BAM**! The program started. It present you a menu. A list of websites that you will choose 1 from. What it will do is that it will clone that website to make it look real so that the victim does not get suspicious of the fake site. 
+And **BAM**! The program started. It should present you a menu. A list of websites that you will choose 1 from. What it will do is that it will clone that website to make it look real so that the victim does not get suspicious of the fake site. 
 
 You type the number for example I type `1` to clone Instagram's Login Page. 
 
