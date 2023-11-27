@@ -1,5 +1,5 @@
 # LetDowntoVoid Hacking Tutorial - Phishing
-## Difficulty: So easy that it's scary. <br>[=⭕==================] (10%)
+## Difficulty: Easy. <br>[=⭕==================] (10%)
 <br>
 
 ![LetDowntoVoid-Logo-Dark](https://raw.githubusercontent.com/LetDowntoVoid/VoidWorksInc-hackingTutorials/main/Phishing/Images/LetDowntoVoidFull.png#gh-dark-mode-only)
